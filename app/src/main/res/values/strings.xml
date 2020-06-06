@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCustomerApp</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="text_view">TextView</string>
+
+</resources>
